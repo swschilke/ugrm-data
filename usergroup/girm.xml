@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<usergroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd">
+    <name>Gesellschaft für Informatik Regionalgruppe Rhein Main</name>
+    <nickname>GIRM</nickname>
+    <description>Die GI-Rhein-Main ist eine Regionalgruppe der Gesellschaft für Informatik, 
+	der IEEE Computer Society und des German Chapter of the ACM, der deutschen Abteilung 
+	der Association of Computing Machinery. Unsere Veranstaltung werden auf unsere Webseite 
+	bekannt	gegeben. 
+	
+	Die GI-Rhein-Main organisiert seit 1989 Veranstaltungen zu aktuellen Themen der Informatik.  
+	Die Veranstaltungen sind öffentlich, eine Mitgliedschaft ist nicht erforderlich.
+	
+	Wichtig ist dabei die praktische Anwendung  der Gedankenaustausch. Was bringt das? Welche 
+	Erfahrungen und Anforderungen sind in der Praxis relevant?
+	
+	Wir haben ein breites Spektrum an Themen aus der Praxis und den Hochschulen. Zu den 
+	Veranstaltungen kommen erfahrungsgemäß etwa 20 bis 100 Teilnehmer. Der größte Teil der 
+	Teilnehmer kommt aus der EDV-Anwendung (Banken, Versicherungen usw.) und der EDV-Branche 
+	(z.B. Capgemini, Software AG, IBM, SAP, Telekom, ...), ein kleinerer Teil von den Hochschulen
+	und Instituten der Region (z.B. TU Darmstadt, Uni Frankfurt, Fraunhofer, HS RheinMain, ...).
+	
+	Der Arbeitskreis Freiberufler und Selbständige in der Regionalgruppe trifft sich ebenfalls 
+	regelmäßig. Wer einen Freiberufler sucht oder selbst als Freiberufler tätig ist, ist dort richtig.
+	
+	Die Regionalgruppe Rhein-Main ist unbürokratisch organisiert. Das Organisationsteam ist offen 
+	für Anregungen, Kritik und neue Ideen. Wollen Sie die Regionalgruppe aktiv mitgestalten? Sie 
+	sind herzlich willkommen. Bitte nehmen Sie Kontakt mit uns auf.
+    </description>
+    <url>http://rg-rhein-main.gi.de/</url>
+    <tags>
+        <tag>Informatik</tag>
+        <tag>Computer</tag>
+	<tag>Wissenschaft</tag>
+    </tags>
+    <contact>    
+        <hashtag>#GIRM</hashtag>
+    </contact> 
+    <schedule>
+        <meeting>http://www.gi.de/index.php?id=1664&no_cache=1</meeting>
+    </schedule>
+    <team> 
+        <person>
+            <name>Sprecher der GI Rhein Main: Dr. Joachim Rix</name>
+            <url>http://rg-rhein-main.gi.de/kontakt.html</url>
+        </person>
+        <person>
+            <name>Leitungsgremium der Gesellschaft für Informatik Rhein Main</name>
+            <url>http://rg-rhein-main.gi.de/kontakt/leitungsgremium.html</url>
+        </person>
+    </team>    
+    <photocredits>
+        <logo>Das Logo stammt von der GI.</logo>
+        <group>Foto: -</group>
+    </photocredits>
+</usergroup>

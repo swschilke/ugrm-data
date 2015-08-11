@@ -6,3 +6,4 @@ usergroup/*.ical
 .classpath
 /bin
 /report
+*.SIK
